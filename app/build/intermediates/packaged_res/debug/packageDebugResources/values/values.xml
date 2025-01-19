@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="backgroundColor">#F5F5F5</color>
+    <color name="buttonBackground">#3F51B5</color>
+    <color name="buttonTextColor">#FFFFFF</color>
+    <color name="primaryTextColor">#000000</color>
+    <color name="secondaryTextColor">#757575</color>
+    <item name="easy_button" type="id"/>
+    <item name="hard_button" type="id"/>
+    <item name="medium_button" type="id"/>
+    <string name="app_name">MathQuiz</string>
+    <string name="level_text">Уровень: %1$d</string>
+    <string name="score_text">Рекорд: %1$d</string>
+    <string name="timer_text">Осталось времени: %1$d сек</string>
+    <style name="Base.Theme.MathQuiz" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.MathQuiz" parent="Base.Theme.MathQuiz"/>
+</resources>
